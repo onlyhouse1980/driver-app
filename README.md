@@ -35,7 +35,7 @@ npm run web
 
 ## Working Demo
 
-- Screen recording: `demo/driver-app-demo.webm`
+- Screen recording with visible tap indicators: `demo/driver-app-demo.webm`
 - Final-state screenshot: `demo/driver-app-demo-final-frame.png`
 
 The recording shows the full flow: accepting an available order, opening My Jobs, viewing order details, confirming pickup, and confirming delivery.
