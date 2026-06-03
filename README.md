@@ -33,6 +33,13 @@ npm run android
 npm run web
 ```
 
+## Working Demo
+
+- Screen recording: `demo/driver-app-demo.webm`
+- Final-state screenshot: `demo/driver-app-demo-final-frame.png`
+
+The recording shows the full flow: accepting an available order, opening My Jobs, viewing order details, confirming pickup, and confirming delivery.
+
 ## Architecture Notes
 
 - `App.tsx` wraps the app in `JobProvider` and `RootNavigator`.
